@@ -1,0 +1,1 @@
+<?php echo ob_get_contents() ?>
